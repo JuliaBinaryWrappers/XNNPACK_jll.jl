@@ -1,0 +1,17 @@
+name = "XNNPACK_jll"
+uuid = "55708af3-2096-517b-81a3-3917441130f6"
+version = "0.0.20200225+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+CPUInfo_jll = "48a17e46-e8cd-5edf-9ac6-c264fe76544e"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+PThreadPool_jll = "a74eb8f4-56fd-5a14-80e9-60c06ef4dc0e"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+CPUInfo_jll = "0.0.20200122"
+PThreadPool_jll = "0.0.20191029"

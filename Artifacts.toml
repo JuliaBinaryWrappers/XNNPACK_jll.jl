@@ -1,0 +1,84 @@
+[[XNNPACK]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9fb0898a8af5cc8e9bfb0147963aaa11eb20ba9b"
+libc = "glibc"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "5face843b8eea28f9f37faebe952872c8b3e2ff86a94b1c75d8a08bd94f888ce"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.armv6l-linux-gnueabihf.tar.gz"
+[[XNNPACK]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b0e6722ead8ccbbcf7ecf77eb2ed2c2052e16d83"
+libc = "musl"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "cf25276772ab32d65466ac99f057f5edf48c99bd4515a9d4ec3b122f6a265ee6"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.armv6l-linux-musleabihf.tar.gz"
+[[XNNPACK]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "92205965d188bc23629e1e0fa07ae7ae32f3db0b"
+libc = "glibc"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "3575ad9ff6e682f97bcfa8c89f60d957ee70eb1e88619dfea2abd95c93a3173f"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.armv7l-linux-gnueabihf.tar.gz"
+[[XNNPACK]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "79545939fa012f2524be5b6456d62441788c2b94"
+libc = "musl"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "473fd561db9b948a4bb13840f2ed36566c8d995c0bf71d2f6ebc3831c22d3ae1"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.armv7l-linux-musleabihf.tar.gz"
+[[XNNPACK]]
+arch = "i686"
+git-tree-sha1 = "ed459d7327b6aeb91b33b6c0663bc527028eba2f"
+libc = "glibc"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "681c77af2130a81e265d99505c55108ec5f42008fa34e5cb344bcf30b92883fd"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.i686-linux-gnu.tar.gz"
+[[XNNPACK]]
+arch = "i686"
+git-tree-sha1 = "c07978e2bab52d3e801dc6b0660d3eed77206b87"
+libc = "musl"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "6da00864abda8ffff958e60ab37bfe52d83e1ed19400328f08ba9aa9df8f240b"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.i686-linux-musl.tar.gz"
+[[XNNPACK]]
+arch = "x86_64"
+git-tree-sha1 = "77aac13fde2ae3eeb8585a1974c1a85987adc861"
+os = "macos"
+
+    [[XNNPACK.download]]
+    sha256 = "b78226a3642d08f994a88d8603430a1767fc9136bf29f9e276278f859b14804e"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.x86_64-apple-darwin.tar.gz"
+[[XNNPACK]]
+arch = "x86_64"
+git-tree-sha1 = "9761768b875a4563bf3356773934e50ff6bb7e17"
+libc = "glibc"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "5e3b76e4b7c7712dca6c0b475cff0e11f8099d0466cdf8c2bbfec49d192e55fa"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.x86_64-linux-gnu.tar.gz"
+[[XNNPACK]]
+arch = "x86_64"
+git-tree-sha1 = "d0e4b87b9ca463d1ef23aa508c6ebb5041aea4ea"
+libc = "musl"
+os = "linux"
+
+    [[XNNPACK.download]]
+    sha256 = "18908fc51f872cde3a6f6f23729724d11599d993d604a3e7a7a45282c7ab8a16"
+    url = "https://github.com/JuliaBinaryWrappers/XNNPACK_jll.jl/releases/download/XNNPACK-v0.0.20200225+0/XNNPACK.v0.0.20200225.x86_64-linux-musl.tar.gz"

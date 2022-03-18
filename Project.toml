@@ -1,6 +1,6 @@
 name = "XNNPACK_jll"
 uuid = "55708af3-2096-517b-81a3-3917441130f6"
-version = "0.0.20200225+0"
+version = "0.0.20200323+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,5 +13,5 @@ PThreadPool_jll = "a74eb8f4-56fd-5a14-80e9-60c06ef4dc0e"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-CPUInfo_jll = "0.0.20200122"
-PThreadPool_jll = "0.0.20191029"
+CPUInfo_jll = "0.0.20200228, 0.0.20200522, 0.0.20200612"
+PThreadPool_jll = "0.0.20200302, 0.0.20200616"
